@@ -9,5 +9,5 @@ def test_subtract(x,y):
 def test_multiply(x,y):
   assert multiply(2,3)==6
 
-def test_divide(x,y):
-  assert divide(2,2)==1
+def test_division(x,y):
+  assert division(2,2)==1
